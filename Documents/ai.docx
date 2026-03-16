@@ -1,0 +1,52 @@
+Artificial Intelligence Overview
+
+Artificial Intelligence (AI) is a field of computer science that focuses on creating machines capable of performing tasks that typically require human intelligence.
+
+Examples of AI applications include:
+
+Speech recognition
+
+Image recognition
+
+Autonomous vehicles
+
+Medical diagnosis
+
+Recommendation systems
+
+Types of Artificial Intelligence
+
+Narrow AI
+AI systems designed for specific tasks such as chatbots or recommendation engines.
+
+General AI
+AI systems capable of performing any intellectual task a human can do.
+
+Superintelligent AI
+Hypothetical AI that surpasses human intelligence.
+
+Machine Learning
+
+Machine Learning is a subset of AI that allows systems to learn patterns from data without explicit programming.
+
+Types of machine learning:
+
+Supervised Learning
+
+Unsupervised Learning
+
+Reinforcement Learning
+
+Deep Learning
+
+Deep learning uses neural networks with multiple layers to analyze complex patterns in data such as images, text, and speech.
+
+Common frameworks used in AI:
+
+TensorFlow
+
+PyTorch
+
+Scikit-learn
+
+AI is transforming industries including healthcare, finance, transportation, and robotics.

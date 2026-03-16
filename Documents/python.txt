@@ -1,0 +1,36 @@
+Python Programming Language
+
+Python is a high-level, interpreted programming language created by Guido van Rossum and released in 1991. It is known for its simplicity, readability, and large ecosystem of libraries.
+
+Key Features of Python:
+- Easy to learn and use
+- Interpreted language
+- Dynamically typed
+- Large standard library
+- Cross-platform compatibility
+
+Python is widely used in many fields including:
+- Web Development
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Automation
+- Cybersecurity
+
+Example Python Code:
+
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
+
+print(factorial(5))
+
+Important Python Libraries:
+- NumPy (scientific computing)
+- Pandas (data analysis)
+- TensorFlow and PyTorch (deep learning)
+- Flask and Django (web development)
+- Matplotlib and Seaborn (data visualization)
+
+Python is considered one of the best languages for beginners as well as professionals working in AI and data science.
